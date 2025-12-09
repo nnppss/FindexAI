@@ -1,4 +1,4 @@
-# Findex AI - Ctrl + F on Steroids
+# Findex AI 
 
 Chrome Extension / FireFox Extension to better search YouTube Videos / Webpages
 
